@@ -1,0 +1,121 @@
+Palm 1
+Area: 322000  Perimeter:2288
+Area: 88602  Perimeter:2456
+
+Palm 2
+Area: 354224  Perimeter:2400
+Area: 98728  Perimeter:2813
+
+Palm 3
+Area: 1916432  Perimeter:5597
+Area: 40  Perimeter:23
+Area: 34  Perimeter:21
+Area: 40  Perimeter:23
+Area: 530982  Perimeter:6128
+Area: 1  Perimeter:6
+Area: 0  Perimeter:3
+Area: 0  Perimeter:6
+Area: 0  Perimeter:2
+Area: 0  Perimeter:4
+Area: 0  Perimeter:4
+Area: 0  Perimeter:0
+Area: 4  Perimeter:7
+
+Palm 4
+Area: 1909918  Perimeter:5602
+Area: 698402  Perimeter:6757
+Area: 0  Perimeter:0
+Area: 0  Perimeter:11
+Area: 0  Perimeter:4
+Area: 0  Perimeter:2
+Area: 0  Perimeter:0
+Area: 0  Perimeter:0
+Area: 0  Perimeter:0
+Area: 2  Perimeter:7
+Area: 0  Perimeter:4
+Area: 3  Perimeter:14
+Area: 6  Perimeter:17
+Area: 1  Perimeter:8
+Area: 0  Perimeter:0
+Area: 10  Perimeter:19
+Area: 0  Perimeter:4
+Area: 0  Perimeter:2
+Area: 0  Perimeter:4
+Area: 0  Perimeter:6
+Area: 1  Perimeter:29
+Area: 16  Perimeter:42
+Area: 35  Perimeter:65
+Area: 15  Perimeter:28
+Area: 0  Perimeter:0
+Area: 0  Perimeter:0
+Area: 0  Perimeter:0
+Area: 0  Perimeter:12
+
+Palm 5
+Area: 646696  Perimeter:3244
+Area: 193020  Perimeter:3662
+
+Palm 6
+Area: 2102775  Perimeter:5888
+Area: 147  Perimeter:59
+Area: 54  Perimeter:27
+Area: 453735  Perimeter:5839
+
+Palm 7
+Area: 2102775  Perimeter:5888
+Area: 14  Perimeter:13
+Area: 508536  Perimeter:6547
+Area: 0  Perimeter:0
+Area: 0  Perimeter:0
+Area: 0  Perimeter:6
+Area: 3  Perimeter:8
+Area: 5  Perimeter:12
+
+Palm 8
+Area: 2102775  Perimeter:5888
+Area: 27  Perimeter:22
+Area: 489689  Perimeter:6168
+
+Palm 9
+Area: 364332  Perimeter:2430
+Area: 104606  Perimeter:2610
+
+Palm 10
+Area: 361989  Perimeter:2432
+Area: 123135  Perimeter:2880
+
+Palm 11
+Area: 401040  Perimeter:2554
+Area: 109753  Perimeter:2772
+Area: 0  Perimeter:4
+
+Palm 12
+Area: 357316  Perimeter:2434
+Area: 119619  Perimeter:3010
+
+Palm 13
+Area: 417319  Perimeter:2608
+Area: 55  Perimeter:27
+Area: 89783  Perimeter:2539
+
+Palm 14
+Area: 388024  Perimeter:2515
+Area: 87255  Perimeter:2488
+Area: 0  Perimeter:0
+
+Palm 15
+Area: 400292  Perimeter:2563
+Area: 127744  Perimeter:3036
+
+Palm 16
+Area: 402876  Perimeter:2560
+Area: 103343  Perimeter:2607
+
+Palm 17
+Area: 499899  Perimeter:2850
+Area: 159816  Perimeter:3281
+
+Palm 18
+Area: 413422  Perimeter:2593
+Area: 127385  Perimeter:3129
+
