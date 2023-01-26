@@ -5,7 +5,10 @@ import cv2
 import numpy as np
 
 # Read the input image
-img = cv2.imread('P5.jpeg')
+name1 = "./coloredSet/P" 
+name2 = 18
+name3 = ".png"
+img = cv2.imread(name1+str(name2)+name3)
 
 # Creating kernel
 kernel = np.ones((5, 5), np.uint8)
@@ -37,23 +40,25 @@ for cnt in contours:
     perimeter = round(perimeter, 4)
     print('Area:', area)
     print('Perimeter:', perimeter)
-    # img1 = cv2.drawContours(img, [cnt], -1, (0,255,255), 3)
+    img1 = cv2.drawContours(img, [cnt], -1, (255,190,220), 2)
     # x1, y1 = cnt[0,0]
     # cv2.putText(img1, f'Area:{area}', (x1, y1), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 0, 255), 2)
     # cv2.putText(img1, f'Perimeter:{perimeter}', (x1, y1+20), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 0, 255), 2)
-    totalArea += area
-    totalPerim += perimeter
-    if perimeter > maxPerimeter or area > maxArea : 
-        maxI = i
-    i = i + 1
+    # totalArea += area
+    # totalPerim += perimeter
+    # if perimeter > maxPerimeter or area > maxArea : 
+    #     maxI = i
+    # i = i + 1
 
-cnt = contours[maxI]
-img1 = cv2.drawContours(img, [cnt], -1, (0,255,255), 3)
-x1, y1 = cnt[0,0]
-cv2.putText(img1, f'Area:{area}', (x1, y1), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 0, 255), 2)
-cv2.putText(img1, f'Perimeter:{perimeter}', (x1, y1+20), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 0, 255), 2)
+# cnt = contours[maxI]
+# img1 = cv2.drawContours(img, [cnt], -1, (0,255,255), 3)
+# x1, y1 = cnt[0,0]
+# cv2.putText(img1, f'Area:{area}', (x1, y1), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 0, 255), 2)
+# cv2.putText(img1, f'Perimeter:{perimeter}', (x1, y1+20), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 0, 255), 2)
 
 cv2.imshow("Image", img)
+filename = "./transparentImg/P"+str(name2)+".png"
+cv2.imwrite(filename, img1)
 # print("Total area is ")
 # print(totalArea)
 # print("Total perimeter is ")
